@@ -1,4 +1,4 @@
-# Wunjo
+# Wunjo (OctaSpace)
 
 Requirements: Python3.10, CUDA 12.4 or upper, CuDNN 9.x.
 
