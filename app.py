@@ -40,9 +40,6 @@ from backend.general_utils import (
 )
 
 import logging
-from dotenv import load_dotenv
-
-load_dotenv()
 
 scheduler = BackgroundScheduler()
 app = Flask(__name__)
