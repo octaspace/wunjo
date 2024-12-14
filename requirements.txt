@@ -28,3 +28,4 @@ torchaudio==2.4.0 --extra-index-url https://download.pytorch.org/whl/cu124
 tqdm==4.66.3
 transformers==4.46.0
 xformers==0.0.27post2 --extra-index-url https://download.pytorch.org/whl/cu124
+pywavelets==1.5.0
